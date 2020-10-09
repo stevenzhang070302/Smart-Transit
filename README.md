@@ -1,7 +1,7 @@
 # Smart-Transit-Arduino-Data-Collection
-Project under Vdart Digital
+IoT Project under Vdart Digital
 
-This repository contains the code to control and collect data from the GPS sensors utilizing the arduino board.
+This repository contains the code to control and collect data from the GPS sensors utilizing the arduino board. The code has functionality to use the GPS Sensors to calculate the location using latitude and longitude as well as calculating the distance between two points(current location to destination). Addtionally, the program can connect to the internet via data to send that data to the cloud where it can be processed into a mobile application(the second part of this project).
 
 # Process: 
 The current setup for Smart Public transit is to have a GPS Tracking device that sends wifi signals to the internet where it can be displayed on Google Maps API on a Mobile application. By doing this, the citizens of Trichy, India will receive better efficiency managing public transportation.
