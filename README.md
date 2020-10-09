@@ -1,5 +1,6 @@
 # Smart-Transit-Arduino-Data-Collection
 Project under Vdart Digital
+
 This repository contains the code to control and collect data from the GPS sensors utilizing the arduino board.
 
 # Process: 
