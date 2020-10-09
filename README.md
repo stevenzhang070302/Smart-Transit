@@ -17,14 +17,14 @@ We are going to have a GPS shield/Breakout Board attached to the arduino and use
 
 # Hardware Configurations
 * Plug in power configurations
-** Connect the 5V Pin from the arduino to the red power line
-** Connect the GND pin from arduino to the blue power line
+  * Connect the 5V Pin from the arduino to the red power line
+  * Connect the GND pin from arduino to the blue power line
 * Place the FONA 808/GPS Breakout board onto the breadboard
-** Connect VIO pins to the red power line
-** Connect GND and Key bins to the blue power line
+  * Connect VIO pins to the red power line
+  * Connect GND and Key bins to the blue power line
 * Configuring the Data connection
-** Connect FONA RST pin to the Arduino pin 4
-** Connect FONA TX pin to Arduino pin 3
-** Connect FONA RX pin to Arduino pin 2
+  * Connect FONA RST pin to the Arduino pin 4
+  * Connect FONA TX pin to Arduino pin 3
+  * Connect FONA RX pin to Arduino pin 2
 * Connect the other components
-** Connect the Lithium battery, GPS antenna, and GSM antenna to the breakout board
+  * Connect the Lithium battery, GPS antenna, and GSM antenna to the breakout board
