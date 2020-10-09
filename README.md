@@ -28,3 +28,7 @@ We are going to have a GPS shield/Breakout Board attached to the arduino and use
   * Connect FONA RX pin to Arduino pin 2
 * Connect the other components
   * Connect the Lithium battery, GPS antenna, and GSM antenna to the breakout board
+
+# Assembly of Parts 
+* You will need to Solder the pins from the GPS Shield/Breakout Board Package onto the GPS Shield/Breakout Board. After the solder has dried/cooled, attach the shield/breakout board onto the arduino board and the other components to the GPS Shield/Breakout Board
+
