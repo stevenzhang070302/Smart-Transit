@@ -1,5 +1,6 @@
 # Smart-Transit
 Project under Vdart Digital
+This repository contains the code to control and collect data from the GPS sensors utilizing the arduino board.
 
 # Process: 
 The current setup for Smart Public transit is to have a GPS Tracking device that sends wifi signals to the internet where it can be displayed on Google Maps API on a Mobile application. By doing this, the citizens of Trichy, India will receive better efficiency managing public transportation.
@@ -31,4 +32,7 @@ We are going to have a GPS shield/Breakout Board attached to the arduino and use
 
 # Assembly of Parts 
 * You will need to Solder the pins from the GPS Shield/Breakout Board Package onto the GPS Shield/Breakout Board. After the solder has dried/cooled, attach the shield/breakout board onto the arduino board and the other components to the GPS Shield/Breakout Board
+
+# Instructions
+Download the repository and the arduino IDE. Correctly wire the arduino with the other sensors/parts. Open GPSio.ino and run the program.
 
